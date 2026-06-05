@@ -93,7 +93,7 @@ Prior to analysis, the dataset underwent several preprocessing steps in **Micros
 
 ---
 
-📌 Follow my journey on [LinkedIn](https://www.linkedin.com/in/samuel-adebayo-75620121a?trk=contact-info) · [X (Twitter)](#https://x.com/olakunlediamon2?s=21)
+📌 Follow my journey on [LinkedIn](#https://www.linkedin.com/in/samuel-adebayo-75620121a?trk=contact-info) · [X (Twitter)](#https://x.com/olakunlediamon2?s=21)
 
 ---
 
